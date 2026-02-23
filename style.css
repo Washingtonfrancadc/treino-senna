@@ -101,7 +101,8 @@ p {
 #treinob,
 #treinoc,
 #treinod,
-#treinoe {
+#treinoe,
+#treinof {
     width: auto;
     max-height: 0;
     background-color: rgba(0, 0, 0, 0.541);
@@ -113,7 +114,8 @@ p {
 #treinob.show,
 #treinoc.show,
 #treinod.show,
-#treinoe.show {
+#treinoe.show,
+#treinof.show  {
     max-height: 22em;
 }
 
